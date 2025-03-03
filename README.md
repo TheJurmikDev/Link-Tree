@@ -15,7 +15,8 @@ The **Linktree** page is designed with a **clean and minimalistic** layout, ensu
 ## 🛠️ Setup (For Custom Linktree)  
 If you want to run your own **self-hosted Linktree**, follow these steps:  
 
-
-Then, open the `index.html` file in your browser or deploy it using **Vercel / Netlify**.  
+git clone https://github.com/thejurmik/Linktree.git
+cd Linktree
+Then, open the `index.html` file with your browser.  
 
 ---
