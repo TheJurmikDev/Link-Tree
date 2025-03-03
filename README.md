@@ -19,5 +19,6 @@ If you want to run your own **self-hosted Linktree**, follow these steps:
 git clone https://github.com/TheJurmikDev/Link-Tree.git
 cd Linktree
 Then, open the `index.html` file with your browser.  
+```
 
 ---
